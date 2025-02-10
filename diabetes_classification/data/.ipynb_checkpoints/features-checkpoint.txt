@@ -1,0 +1,26 @@
+01. Age | Objective Feature | age | int (days) |
+02. Height | Objective Feature | height | int (cm) |
+03. Weight | Objective Feature | weight | float (kg) |
+04. Gender | Objective Feature | gender | categorical code | 1: Female, 2: Male |
+05. Systolic blood pressure | Examination Feature | ap_hi | int |
+06. Diastolic blood pressure | Examination Feature | ap_lo | int |
+07. Cholesterol | Examination Feature | cholesterol | 1: normal, 2: above normal, 3: well above normal |
+08. Glucose | Examination Feature | gluc | 1: normal, 2: above normal, 3: well above normal |
+09. Smoking | Subjective Feature | smoke | binary | 0: No, 1: Yes |
+10. Alcohol intake | Subjective Feature | alco | binary | 0: No, 1: Yes |
+11. Physical activity | Subjective Feature | active | binary |
+12. Presence or absence of cardiovascular disease | Target Variable | cardio | binary | 0: No, 1: Yes |
+
+----------------------------
+    New Features Created
+----------------------------
+01. 
+02. 
+03. 
+04. 
+05. 
+06. 
+07. 
+08. 
+09. 
+10. 
